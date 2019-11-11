@@ -1,0 +1,7 @@
+
+This challange was very simple all you have to do is to extract modulus 
+from the certificate and because it was very small factorise it
+to get p and q and submit the flag
+
+credit
+https://8gwifi.org/PemParserFunctions.jsp

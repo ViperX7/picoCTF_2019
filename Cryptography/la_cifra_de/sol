@@ -1,0 +1,7 @@
+the cipher text contains some characters that messes up the algorithms
+but we are still able to guess the flag from malformed input and
+on applying all permutation combination of the flag we get the flag
+
+
+for this problem
+key flag
